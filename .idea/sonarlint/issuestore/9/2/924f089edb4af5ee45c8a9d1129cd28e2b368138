@@ -1,0 +1,20 @@
+
+Ÿ
+java:S1192:"WDefine a constant instead of duplicating this literal "Usuario no encontrado." 3 times.(á¨ò¨üÿÿÿÿ8¨Ú“¦ã1J$3bbb05f3-064c-43c0-a172-96668938fe1f
+V
+java:S1220""Move this file to a named package.J$b43681e8-f261-416e-8e90-22d428e8329d
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘8ÃÚ“¦ã1J$acd28781-536a-448a-9fa8-165e637f131d
+m	java:S106$"+Replace this use of System.out by a logger.(Îñë8ÖÚ“¦ã1J$66844e0a-5695-4c27-ad4d-dc37b6911c66
+i	java:S131-""Add a default case to this switch.(—à¦Ïüÿÿÿÿ8ÙÚ“¦ã1J$368b8587-c402-44ee-a92d-1d73ce9a1e17
+r	java:S106/"+Replace this use of System.out by a logger.(ÇÛÑ‚şÿÿÿÿ8ÚÚ“¦ã1J$085ad302-1b2b-493b-99c4-8c22c85ca935
+m	java:S1063"+Replace this use of System.out by a logger.(Òà¹½8ÛÚ“¦ã1J$8a2830f5-bafb-4ba4-82ee-11861ebb8f1b
+r	java:S106:"+Replace this use of System.out by a logger.(á¨ò¨üÿÿÿÿ8ßÚ“¦ã1J$24234702-aadb-4484-952b-e7cc917be549
+m	java:S106>"+Replace this use of System.out by a logger.(­ìÒˆ8àÚ“¦ã1J$2dd58865-01b9-4c60-aafa-1a8de86ca74f
+r	java:S106C"+Replace this use of System.out by a logger.(Ô´ıÿÿÿÿ8ãÚ“¦ã1J$5c7afeef-56e5-41f5-829a-0d940937a6b2
+m	java:S106I"+Replace this use of System.out by a logger.(»ğú8æÚ“¦ã1J$d86ef966-b0a3-4123-8818-62af547cb6d9
+r	java:S106L"+Replace this use of System.out by a logger.(á¨ò¨üÿÿÿÿ8çÚ“¦ã1J$f5912101-7053-45e0-9e3e-d801af7614e2
+m	java:S106P"+Replace this use of System.out by a logger.(­ìÒˆ8çÚ“¦ã1J$2361369c-da6d-4615-983d-f7ff745c9c4b
+m	java:S106U"+Replace this use of System.out by a logger.(ê¹„¤8êÚ“¦ã1J$9cfdfd18-b74f-41ef-921a-62f3c7d1a833
+m	java:S106["+Replace this use of System.out by a logger.(»ğú8îÚ“¦ã1J$746b6bd5-f962-45b5-bc15-2e7142b421e7
+r	java:S106^"+Replace this use of System.out by a logger.(á¨ò¨üÿÿÿÿ8ïÚ“¦ã1J$671b5c1d-a88b-4eff-a3a8-10a45c17e9b5

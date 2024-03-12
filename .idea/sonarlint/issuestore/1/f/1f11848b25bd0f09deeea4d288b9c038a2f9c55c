@@ -1,0 +1,16 @@
+
+²
+java:S13199"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(§ÎšP8û‚—¦ã1J$3f6015e4-e026-479e-878c-e9eac5b2dd0f
+¸
+java:S1319="pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‚ïœšıÿÿÿÿ8ü‚—¦ã1J$0964524f-6e44-4aca-acfc-a522a455c329
+V
+java:S1220""Move this file to a named package.J$73252775-6573-40a9-8480-d100824c67af
+r	java:S106"+Replace this use of System.out by a logger.(ÍÓå¸úÿÿÿÿ8“ƒ—¦ã1J$83f355e2-dee2-4081-b825-86ad72eae9ed
+r	java:S106"+Replace this use of System.out by a logger.(ò»¾ùÿÿÿÿ8”ƒ—¦ã1J$8b262526-80ed-44e0-b2af-81d37d3f6539
+r	java:S106!"+Replace this use of System.out by a logger.(ÍÓå¸úÿÿÿÿ8–ƒ—¦ã1J$8a9380c3-3110-42ab-aea3-19062cf12927
+r	java:S106)"+Replace this use of System.out by a logger.(é‹ƒÿÿÿÿÿ8˜ƒ—¦ã1J$3dff98d9-4138-4f0d-b342-44da7d698a08
+r	java:S106+"+Replace this use of System.out by a logger.(ïÛïĞûÿÿÿÿ8™ƒ—¦ã1J$0623543c-24a5-4ffe-9140-ab0b451d883e
+r	java:S1063"+Replace this use of System.out by a logger.(ãù‘üûÿÿÿÿ8ƒ—¦ã1J$fa1803f7-0eeb-4322-aa60-b2f1fb2069e9
+m	java:S1065"+Replace this use of System.out by a logger.(Œº×8ƒ—¦ã1J$c43d9106-385a-4f34-b67e-522cd842785c
+r
+java:S1068"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ8¡ƒ—¦ã1J$8c73f9b9-5c35-48ff-af14-ac1d7cfc54de
