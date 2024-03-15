@@ -1,15 +1,6 @@
 import java.util.Scanner;
 
 
-
-
-
-
-
-
-
-
-
 public class Main {
     public static void main(String[] args) {
         Libros libro1 = new Libros("Principito", "Antoine Marie Jean-Baptiste Roger", "GH&675JFH", true);
